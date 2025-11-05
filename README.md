@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Creating automation software that would help brands and social media agencies automate their processes to help smaller business grow.
 - 📫 How to reach me I can be reached here, obviously or by Instagram @Ouijesuist
 - 😄 Pronouns: Him
-- ⚡ Fun fact: I've been boxing for 15 years and I've traveled the world. A friend I met up whilst I was in London put the seed in my brain to learn to code back in 2022 and it's been written ever since.
+- ⚡ Fun fact: I've been boxing for 20 years and I've traveled the world. A friend I met up whilst I was in London put the seed in my brain to learn to code back in 2022 and it's been written ever since.
 - I also used to hack video games and crack programs when I was a kid.
 
 <!---
