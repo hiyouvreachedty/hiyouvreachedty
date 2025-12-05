@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything, as I feel you're always learning no matter what but at this current moment I've taken a liking to Python.
 
 - 💞️ I’m looking to collaborate on Creating automation software that would help brands and social media agencies automate their processes to help smaller business grow.
-- 📫 How to reach me I can be reached here, obviously or by Instagram @Ouijesuist
+- 📫 How to reach me I can be reached here
 - 😄 Pronouns: Him
 
 - ⚡ Fun fact: I've been boxing for 20 years and I've traveled the world.
