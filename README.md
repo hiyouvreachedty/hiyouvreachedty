@@ -43,23 +43,6 @@ I'm a designer-first developer with a passion for clean visuals, strong branding
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=hiyouvreachedty&show_icons=true&theme=tokyonight&count_private=true" 
-    alt="Terrell's GitHub stats" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiyouvreachedty&layout=compact&theme=tokyonight" 
-    alt="Top languages" 
-    height="165"
-  />
-</p>
-
----
-
 ## 🚀 What I'm Working On
 
 - **Automation software** for brands & agencies — reducing manual processes so small businesses can scale
