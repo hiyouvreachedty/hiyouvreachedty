@@ -1,4 +1,4 @@
-# Hi, I'm Terrell 👋
+# Hi, I'm Terrell 👋🏾
 
 **Web Designer & Developer** based in Kelowna, BC · 5+ years of experience building brands and digital experiences.
 
@@ -18,16 +18,7 @@ I'm a designer-first developer with a passion for clean visuals, strong branding
 ## 🧰 Tech Stack
 
 <p align="left">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36" height="36"/>
-  <!-- Tools / Platforms -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="36" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="36" height="36"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,python,git,github,figma,ps" />
 </p>
 
 ---
@@ -37,7 +28,7 @@ I'm a designer-first developer with a passion for clean visuals, strong branding
 | Category | Tools |
 | --- | --- |
 | Design | Webflow, Figma, Adobe Suite |
-| Front-End | HTML, CSS, JavaScript |
+| Front-End | HTML, CSS, JavaScript, Typescript, React |
 | Back-End / Scripting | Python, Node.js |
 | Platforms | Shopify, GitHub, VS Code |
 
