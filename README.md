@@ -1,53 +1,80 @@
-# Hi, I'm Terrell 👋🏾
+<div align="center">
 
-**Web Designer & Developer** based in Kelowna, BC · 5+ years of experience building brands and digital experiences.
+# Terrell Pelletier
 
----
+`DESIGNER // FRONT-END DEVELOPER // DIGITAL BUILDER`
 
-## 🧠 About Me
+Design-led developer based in Kelowna, BC.  
+I build sharp digital experiences with strong visual identity, clean front-end execution, and systems that are made to work.
 
-I'm a designer-first developer with a passion for clean visuals, strong branding, and purposeful code. My journey started in 2022 when a friend I met in London planted the seed — since then, I've been heads-down learning, building, and creating.
-
-- 🎨 I specialize in **web design, UI / UX, and front-end development**
-- 🤖 Currently building **automation tools** to help brands and social media agencies streamline their workflows
-- 🐍 Deep-diving into **Python** — scripting, automation, and data tooling
-- 🥊 Outside of code: I've been boxing for 20 years and have traveled the world
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## `ABOUT`
 
-<p align="left">
+I’m a designer-first developer with a strong eye for branding, layout, and digital presentation. My work lives at the intersection of web design, front-end development, creative direction, and problem-solving — with a growing focus on automation, tooling, and modern digital systems.
+
+- I specialize in **web design, UI design, UX thinking, and front-end development**
+- I build **clean, conversion-aware websites** for brands, studios, and growing businesses
+- I’m expanding into **Python, automation, and tool-building**
+- Outside of code, I’ve been boxing for 20 years and have spent years traveling, observing culture, style, and how people connect with design
+
+---
+
+## `TECH_STACK`
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,python,git,github,figma,ps" />
 </p>
 
 ---
 
-## 🛠️ Skills & Tools
+## `SKILLS_AND_TOOLS`
+
+<div align="center">
 
 | Category | Tools |
-| --- | --- |
-| Design | Webflow, Figma, Adobe Suite |
-| Front-End | HTML, CSS, JavaScript, Typescript, React |
-| Back-End / Scripting | Python, Node.js |
+|---|---|
+| Design | Webflow, Figma, Photoshop, Procreate, Affinity Designer |
+| Front-End | HTML, CSS, JavaScript, TypeScript, React |
+| Scripting | Python, Node.js |
 | Platforms | Shopify, GitHub, VS Code |
 
----
-
-## 🚀 What I'm Working On
-
-- **Automation software** for brands & agencies — reducing manual processes so small businesses can scale
-- Expanding my portfolio of web design projects and client work
-- Building out digital products and tools in Python
+</div>
 
 ---
 
-## 📫 Let's Connect
+## `PROCESS`
 
-I'm open to freelance projects, collaborations, and conversations about design, automation, or business.
+<div align="center">
 
-> *Reach out via GitHub or find me through my portfolio.*
+| Phase | Focus |
+|---|---|
+| Discover | Goals, audience, brand direction, and business context |
+| Structure | Content hierarchy, layout flow, and user clarity |
+| Design | Visual systems, interface polish, and brand expression |
+| Build | Responsive execution in Webflow or code |
+| Refine | Iteration, usability improvements, and final polish |
+
+</div>
 
 ---
 
-*"A sucker for visuals, branding, and building things that actually work."*
+## `CURRENT_FOCUS`
+
+- Building automation tools for brands and agencies
+- Expanding my portfolio across web design, branding, and client work
+- Developing digital products and creative systems with Python
+
+---
+
+## `CONNECT`
+
+I’m open to freelance work, collaborations, and ambitious digital projects across design, development, and automation.
+
+<div align="center">
+
+`DETAIL-OBSESSED // DESIGN-DRIVEN // BUILT WITH INTENT`
+
+</div>
