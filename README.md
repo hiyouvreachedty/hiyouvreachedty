@@ -8,7 +8,7 @@
 
 I'm a designer-first developer with a passion for clean visuals, strong branding, and purposeful code. My journey started in 2022 when a friend I met in London planted the seed — since then, I've been heads-down learning, building, and creating.
 
-- 🎨 I specialize in **web design, UI/UX, and front-end development**
+- 🎨 I specialize in **web design, UI / UX, and front-end development**
 - 🤖 Currently building **automation tools** to help brands and social media agencies streamline their workflows
 - 🐍 Deep-diving into **Python** — scripting, automation, and data tooling
 - 🥊 Outside of code: I've been boxing for 20 years and have traveled the world
