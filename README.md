@@ -2,10 +2,11 @@
 
 # Terrell Pelletier
 
-`DESIGNER // FRONT-END DEVELOPER // DIGITAL BUILDER`
+`DESIGNER-FIRST DEVELOPER // CREATIVE TECHNOLOGIST // DIGITAL BUILDER`
 
-Design-led developer based in Kelowna, BC.  
-I build sharp digital experiences with strong visual identity, clean front-end execution, and systems that are made to work.
+Based in Kelowna, BC.
+
+I design and build branded digital experiences, polished front-end websites, and system-driven products with a strong focus on structure, usability, and visual identity.
 
 </div>
 
@@ -13,68 +14,79 @@ I build sharp digital experiences with strong visual identity, clean front-end e
 
 ## `ABOUT`
 
-I’m a designer-first developer with a strong eye for branding, layout, and digital presentation. My work lives at the intersection of web design, front-end development, creative direction, and problem-solving — with a growing focus on automation, tooling, and modern digital systems.
+I’m a designer-first developer with a strong eye for branding, layout, and digital presentation. My work sits between creative direction, UI/UX, front-end development, and digital product thinking — combining research, structure, and code to create experiences that feel clear, useful, and visually considered.
 
-- I specialize in **web design, UI design, UX thinking, and front-end development**
-- I build **clean, conversion-aware websites** for brands, studios, and growing businesses
-- I’m expanding into **Python, automation, and tool-building**
-- Outside of code, I’ve been boxing for 20 years and have spent years traveling, observing culture, style, and how people connect with design
+- I build **brand-aware websites and digital experiences** for studios, businesses, and creative ventures
+- I focus on **layout systems, user clarity, and polished front-end execution**
+- I’m expanding deeper into **automation, tooling, and product-minded systems**
+- Outside of code and design, I’ve spent years boxing, traveling, and studying style, culture, and the way people connect with visual presentation
+
+---
+
+## `CURRENT_FOCUS`
+
+- Building stronger case-study driven work across **client projects, concept products, and creative systems**
+- Developing projects like **Squabble Up, Inkflow, and Client Mastery Suite**
+- Strengthening my workflow in **React, TypeScript, Python, and modern digital tooling**
+- Growing as a builder who can connect **research, design direction, structure, and execution**
 
 ---
 
 ## `TECH_STACK`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,python,git,github,figma,ps" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,python,git,github,figma,ps,vscode" />
 </p>
 
 ---
 
-## `SKILLS_AND_TOOLS`
+## `CAPABILITIES`
 
-<div align="center">
-
-| Category | Tools |
+| Area | Focus |
 |---|---|
-| Design | Webflow, Figma, Photoshop, Procreate, Affinity Designer |
-| Front-End | HTML, CSS, JavaScript, TypeScript, React |
-| Scripting | Python, Node.js |
-| Platforms | Shopify, GitHub, VS Code |
-
-</div>
+| Creative Direction | Brand presence, visual tone, layout decisions, digital presentation |
+| UI / UX | Content hierarchy, interface clarity, user flow, structure |
+| Front-End Development | HTML, CSS, JavaScript, TypeScript, React |
+| Design Tools | Webflow, Figma, Photoshop, Procreate, Affinity Designer |
+| Systems / Tooling | Python, Node.js, automation workflows, product thinking |
 
 ---
 
 ## `PROCESS`
 
-<div align="center">
-
-| Phase | Focus |
+| Phase | What I focus on |
 |---|---|
-| Discover | Goals, audience, brand direction, and business context |
-| Structure | Content hierarchy, layout flow, and user clarity |
-| Design | Visual systems, interface polish, and brand expression |
-| Build | Responsive execution in Webflow or code |
-| Refine | Iteration, usability improvements, and final polish |
-
-</div>
+| Discover | Business goals, audience needs, competitive references, and brand direction |
+| Structure | Site maps, hierarchy, layout flow, and user clarity |
+| Design | Visual systems, typography, interface polish, and brand expression |
+| Build | Responsive front-end execution and functional implementation |
+| Refine | Usability improvements, presentation details, and final polish |
 
 ---
 
-## `CURRENT_FOCUS`
+## `FEATURED_WORK`
 
-- Building automation tools for brands and agencies
-- Expanding my portfolio across web design, branding, and client work
-- Developing digital products and creative systems with Python
+- **Punktured Art** — branding-aware website work for a tattoo studio
+- **New Tierra Immigration** — web design and branding work for immigration consultancy
+- **Canadian International Student Magazine** — Web development and blog updates
+- **Tresor Design** — personal creative studio direction and digital identity
+- **Squabble Up** — concept/product work around business discovery and lead generation
+- **Anderson Plumbing** — practical business-focused website execution
+- **Inkflow** — tattoo workflow and presentation concept
+- **Client Mastery Suite** — system-focused client management concept
+
+---
+
+## `APPROACH`
+
+I study strong category leaders, break down what creates clarity, trust, and visual impact, then translate those insights into original brand direction, structured user flow, and clean front-end execution.
 
 ---
 
 ## `CONNECT`
 
-I’m open to freelance work, collaborations, and ambitious digital projects across design, development, and automation.
+If you're building something that needs strong visual direction, better structure, and clean digital execution, feel free to connect.
 
-<div align="center">
-
-`DETAIL-OBSESSED // DESIGN-DRIVEN // BUILT WITH INTENT`
-
-</div>
+<p align="center">
+  <a href="https://github.com/hiyouvreachedty">GitHub</a>
+</p>
