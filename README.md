@@ -1,14 +1,24 @@
 <div align="center">
 
 # Terrell Pelletier
+`WEB DESIGNER · FRONT-END DEV · UI/UX DESIGNER`
 
-`DESIGNER-FIRST DEVELOPER // CREATIVE TECHNOLOGIST // DIGITAL BUILDER`
+Based in Kelowna, BC — open to remote roles across BC, Alberta, and Canada.
 
-Based in Kelowna, BC.
+I design and build branded digital experiences, marketing sites, and UI-focused products with a strong emphasis on structure, usability, and visual identity.
 
-I design and build branded digital experiences, polished front-end websites, and system-driven products with a strong focus on structure, usability, and visual identity.
+---
+
+### Connect
+
+[🌐 Portfolio](https://tresor-design-creative-studio.vercel.app/) ·
+[💼 LinkedIn](https://www.linkedin.com/in/terrell-pelletier-160766107/) ·
+[📄 Resume / CV](https://drive.google.com/file/d/1xeUtrL2ovnP1vLBm6Ypgb7gWDzKCR0Q5/view?usp=sharing) ·
+[📧 Email](mailto:terrellpelletier@proton.me)
 
 </div>
+
+---
 
 ---
 
@@ -16,11 +26,10 @@ I design and build branded digital experiences, polished front-end websites, and
 
 I’m a designer-first developer with a strong eye for branding, layout, and digital presentation. My work sits between creative direction, UI/UX, front-end development, and digital product thinking — combining research, structure, and code to create experiences that feel clear, useful, and visually considered.
 
-- I build **brand-aware websites and digital experiences** for studios, businesses, and creative ventures
-- I focus on **layout systems, user clarity, and polished front-end execution**
-- I’m expanding deeper into **automation, tooling, and product-minded systems**
-- Outside of code and design, I’ve spent years boxing, traveling, and studying style, culture, and the way people connect with visual presentation
-
+- I build brand-aware websites and digital experiences for studios, businesses, and creative ventures
+- I focus on layout systems, user clarity, and polished front-end execution
+- I’m expanding deeper into automation, tooling, and product-minded systems
+  
 ---
 
 ## `CURRENT_FOCUS`
@@ -85,7 +94,7 @@ I study strong category leaders, break down what creates clarity, trust, and vis
 
 ## `CONNECT`
 
-If you're building something that needs strong visual direction, better structure, and clean digital execution, feel free to connect.
+If you're building something that needs strong visual direction, clear structure, and polished front-end execution, I’m open to freelance, contract, and full-time opportunities.
 
 <p align="center">
   <a href="https://github.com/hiyouvreachedty">GitHub</a>
